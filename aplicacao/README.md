@@ -23,3 +23,13 @@ Nessa aula:
 
 - Carregamos esses arquivos, conhecidos como [arquivos estáticos](https://docs.djangoproject.com/pt-br/2.2/howto/static-files/) e melhoramos o visual da nossa aplicação.
 
+## Projeto final aula 3
+
+Nessa aula:
+
+- Ajustamos os links da index, do logo através da template tag `url`;
+
+- Criamos o `base.html` para usar as mesmas partes do HTML em diferentes páginas da aplicação;
+
+- Evitamos código duplicado do `menu` e do `footer` criando e incluindo `partials`.
+
